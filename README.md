@@ -39,7 +39,7 @@ This project appears to be a web application with user authentication and admin 
 - Database seeding
 - Static assets (CSS/JS)
 
-## Project Team – Anti-Gravity System
+## Project Team
 
 | S.No | Name | Registration Number | Role |
 | :--- | :--- | :--- | :--- |
