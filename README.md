@@ -47,8 +47,8 @@ This project appears to be a web application with user authentication and admin 
 | 2 | Shaik Farvez | AP24110010020 | Backend Developer |
 | 3 | V. Revanth | AP24110010071 | Frontend Developer |
 | 4 | T. Nikhilesh | AP24110010039 | Database Manager |
-| 5 | Janaki | AP24110010058 | UI/UX Designer |
-| 6 | Haneesh | AP24110010032 | QA & Documentation |
+| 5 | K.Janaki sri ram | AP24110010058 | UI/UX Designer |
+| 6 | B.Haneesh Reddy | AP24110010032 | QA & Documentation |
 
 ## License
 Specify your license here.
