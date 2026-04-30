@@ -43,7 +43,7 @@ This project appears to be a web application with user authentication and admin 
 
 | S.No | Name | Registration Number | Role |
 | :--- | :--- | :--- | :--- |
-| 1 | T. Jaswanth Sai | AP24110010041 | Full Stack Developer (Lead) |
+| 1 | T. Jaswanth Sai | AP24110010041 | Full Stack Developer |
 | 2 | Shaik Farvez | AP24110010020 | Backend Developer |
 | 3 | V. Revanth | AP24110010071 | Frontend Developer |
 | 4 | T. Nikhilesh | AP24110010039 | Database Manager |
